@@ -1,0 +1,11 @@
+D:\DotNetCoreTutorial\DotNetMVC\bin\Debug\netcoreapp2.2\DotNetMVC.deps.json
+D:\DotNetCoreTutorial\DotNetMVC\bin\Debug\netcoreapp2.2\DotNetMVC.runtimeconfig.json
+D:\DotNetCoreTutorial\DotNetMVC\bin\Debug\netcoreapp2.2\DotNetMVC.runtimeconfig.dev.json
+D:\DotNetCoreTutorial\DotNetMVC\bin\Debug\netcoreapp2.2\DotNetMVC.dll
+D:\DotNetCoreTutorial\DotNetMVC\bin\Debug\netcoreapp2.2\DotNetMVC.pdb
+D:\DotNetCoreTutorial\DotNetMVC\obj\Debug\netcoreapp2.2\DotNetMVC.csprojAssemblyReference.cache
+D:\DotNetCoreTutorial\DotNetMVC\obj\Debug\netcoreapp2.2\DotNetMVC.csproj.CoreCompileInputs.cache
+D:\DotNetCoreTutorial\DotNetMVC\obj\Debug\netcoreapp2.2\DotNetMVC.AssemblyInfoInputs.cache
+D:\DotNetCoreTutorial\DotNetMVC\obj\Debug\netcoreapp2.2\DotNetMVC.AssemblyInfo.cs
+D:\DotNetCoreTutorial\DotNetMVC\obj\Debug\netcoreapp2.2\DotNetMVC.dll
+D:\DotNetCoreTutorial\DotNetMVC\obj\Debug\netcoreapp2.2\DotNetMVC.pdb
